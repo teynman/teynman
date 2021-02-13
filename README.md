@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wenyuan @teynman
+- 👋 Hi, I’m Wenyuan @teynman. I am an incoming SDE intern at Amazon.
 - 👀 I’m interested in algorithms, software development with Java and Go.
 - 🌱 I’m currently learning C.
 - 📫 Email: t.wenyuanhuang@gmail.com
